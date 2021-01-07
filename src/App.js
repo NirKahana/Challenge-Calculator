@@ -2,7 +2,7 @@ import React from 'react';
 import Calc from './components/Calc';
 
 import './App.css';
-
+// comment
 function App() {
   return (
     <div className='App'>
